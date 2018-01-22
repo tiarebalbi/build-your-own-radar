@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/thoughtworks/build-your-own-radar.svg?branch=master)](https://travis-ci.org/thoughtworks/build-your-own-radar)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Fbuild-your-own-radar.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Fbuild-your-own-radar?ref=badge_shield)
 
 A library that generates an interactive radar, inspired by [thoughtworks.com/radar](http://thoughtworks.com/radar).
 
@@ -64,3 +65,7 @@ Make sure you have nodejs installed.
      $ docker run -p 8080:8080 -v $PWD:/app -w /app -it node:7.3.0 /bin/sh -c 'npm install && npm run dev'
 
 After building it will start on localhost:8080
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Fbuild-your-own-radar.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Fbuild-your-own-radar?ref=badge_large)
